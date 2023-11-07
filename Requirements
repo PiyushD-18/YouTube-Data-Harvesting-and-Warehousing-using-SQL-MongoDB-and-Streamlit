@@ -1,0 +1,32 @@
+pandas: Used for data manipulation and analysis.
+You can install it using pip install pandas.
+
+plotly.express: Used for creating interactive visualizations.
+You can install it using pip install plotly.
+
+streamlit: The primary library for creating the Streamlit web application.
+You can install it using pip install streamlit.
+
+streamlit_option_menu: This is an external library for creating option menus in Streamlit.
+You can install it using pip install streamlit-option-menu.
+
+mysql.connector: Used for connecting to and interacting with MySQL databases.
+You can install it using pip install mysql-connector-python.
+
+pymongo: Used for connecting to and interacting with MongoDB databases.
+You can install it using pip install pymongo.
+
+googleapiclient.discovery: Used for accessing the Google API, which includes the YouTube Data API.
+You'll need to install this library using pip install google-api-python-client.
+
+PIL (Pillow): Used for working with images, such as displaying images in your Streamlit app.
+You can install it using pip install Pillow.
+
+Ensure you have these libraries installed in your Python environment before running your Streamlit application. You can use the provided pip install commands to install any missing libraries. Additionally, make sure you have the necessary API keys and credentials set up for Google API, MySQL, and MongoDB as mentioned in your project requirements.
+
+
+
+
+
+
+
